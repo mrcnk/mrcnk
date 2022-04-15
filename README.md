@@ -18,4 +18,5 @@ In my spare time, I'm a one-man development army at [MVR Studio](https://github.
 
 ### 🔗 Links
 [MVR Studio](https://mvr.studio)
+
 [My LinkedIn](https://www.linkedin.com/in/tomekmarciniak/)
