@@ -1,16 +1,21 @@
-### Hi there 👋
+## ℹ️ About me
 
-<!--
-**mrcnk/mrcnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tomek, 25 years old Software Engineer focusing on Frontend Development with React, TypeScript, and GraphQL. In my current position, I focus on creating well-polished web UI experiences for Web3 in the Cardano blockchain [@input-output-hk](https://github.com/input-output-hk).
+What I love the most in the world of Frontend Development are well-tailored UI Design Systems and comprehensive Design System Languages.
+In my spare time, I'm a one-man development army at [MVR Studio](https://github.com/mvr-studio), focusing on Open Source tools and libraries.
 
-Here are some ideas to get you started:
+### 🖥 My frequent stack
+- TypeScript
+- React
+- GraphQL
+- Cypress/Playwright
+- Zustand
+- Prisma
+- Apollo Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 Reach me out
+[tomek@mvr.studio](mailto:tomek@mvr.studio)
+
+### 🔗 Links
+[MVR Studio](https://mvr.studio)
+[My LinkedIn](https://www.linkedin.com/in/tomekmarciniak/)
