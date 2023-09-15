@@ -29,6 +29,13 @@ const components: { title: string; href: string; target?: string; description: s
     target: "_blank",
     description:
       "My professional self.",
+  },
+  {
+    title: "GitHub",
+    href: "https://github.com/mrcnk",
+    target: "_blank",
+    description:
+      "My technical self.",
   }
 ]
 
