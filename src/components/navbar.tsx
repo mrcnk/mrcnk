@@ -51,7 +51,9 @@ export function Navbar() {
                 <NavigationMenuLink asChild>
                   <a
                     className="flex h-full w-full select-none flex-col justify-end rounded-md bg-gradient-to-b from-muted/50 to-muted p-6 no-underline outline-none focus:shadow-md"
-                    href="/"
+                    href="https://pallad.xyz"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     {/* <Icons.logo className="h-6 w-6" /> */}
                     <div className="mb-2 mt-4 text-lg font-medium">
