@@ -64,13 +64,13 @@ export function Navbar() {
                   </a>
                 </NavigationMenuLink>
               </li>
-              <ListItem href="/docs" title="Minaverse">
+              <ListItem href="https://minaverse.xyz" target="_blank" title="Minaverse">
                 An open source, community-driven explorer for Mina Protocol.
               </ListItem>
-              <ListItem href="/docs/installation" title="Herald">
+              <ListItem href="https://github.com/palladians/herald" target="_blank" title="Herald">
                 Credential creation, issuance, and proving framework
               </ListItem>
-              <ListItem href="/docs/primitives/typography" title="Palladians">
+              <ListItem href="https://palladians.xyz" target="_blank" title="Palladians">
                 A collective of friends building open source, Web3 software.
               </ListItem>
             </ul>
@@ -112,6 +112,7 @@ const ListItem = React.forwardRef<
             className
           )}
           target={target}
+          rel="noopener noreferrer"
           {...props}
         >
           <div className="text-sm font-medium leading-none">{title}</div>
