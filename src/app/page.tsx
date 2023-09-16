@@ -43,7 +43,7 @@ export default function Home() {
                 </Card>
               </a>
             </div>
-            <div className="flex gap-2">
+            <div className="flex gap-2 flex-wrap">
               <Badge variant="outline">React</Badge>
               <Badge variant="outline">Next.js</Badge>
               <Badge variant="outline">TypeScript</Badge>
@@ -62,13 +62,13 @@ export default function Home() {
             <p>Helped to deliver hardware wallets support, including Ledger, staking, and multi-delegation.</p>
             <p>Formed and led Frontend Guild at IOG.</p>
             <div className="flex">
-              <a href="https://pallad.xyz" target="_blank" rel="noopener noreferrer" className="flex">
+              <a href="https://lace.io" target="_blank" rel="noopener noreferrer" className="flex">
                 <Card className="p-2">
                   <NextImage src="/logos/lace.svg" width={100} height={40} alt="Herald" />
                 </Card>
               </a>
             </div>
-            <div className="flex gap-2">
+            <div className="flex gap-2 flex-wrap">
               <Badge variant="outline">React</Badge>
               <Badge variant="outline">Next.js</Badge>
               <Badge variant="outline">TypeScript</Badge>
