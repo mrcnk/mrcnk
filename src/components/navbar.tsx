@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import Link from "next/link"
+import NextLink from "next/link"
 
 import { cn } from "@/lib/utils"
 import {
@@ -44,11 +44,11 @@ export function Navbar() {
     <NavigationMenu className="py-2">
       <NavigationMenuList>
         <NavigationMenuItem>
-          <Link href="/docs" legacyBehavior passHref>
+          <NextLink href="/" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               mrcnk
             </NavigationMenuLink>
-          </Link>
+          </NextLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
           <NavigationMenuTrigger>Projects</NavigationMenuTrigger>
