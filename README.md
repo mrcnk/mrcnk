@@ -4,7 +4,7 @@ I'm Tomek, 27 years old Software Engineer focusing on Frontend Development with 
 
 Currently building non-custodial crypto wallets for Cardano, Mina Protocol, and zkEVMs.
 
-Co-founder of [Palladians](https://palladians.xyz), the collective behind [Pallad](https://pallad.xyz), the Mina Protocol wallet.
+Co-founder of [Palladians](https://palladians.xyz), the collective behind [Pallad](https://pallad.xyz), the Mina Protocol wallet, and [Minaverse](https://minaverse.xyz), Mina block explorer.
 
 ### 📧 Reach me out
 [tomek@palladians.xyz](mailto:tomek@palladians.xyz)
