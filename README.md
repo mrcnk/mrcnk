@@ -1,10 +1,10 @@
 ## ℹ️ About me
 
-I'm Tomek, Senior Software Engineer focusing on Frontend Development with React, and TypeScript.
+I'm Tomek, Senior Software Engineer in Web3 and Distributed Systems.
 
-Currently building non-custodial crypto wallets for Mina Protocol, and zkEVMs.
+Software and hardware wallets, ZK, library SDKs.
 
-Co-founder of [Palladians](https://palladians.xyz), the collective behind [Pallad](https://pallad.xyz).
+Founder of [Palladians](https://palladians.xyz), the collective behind [Pallad](https://pallad.co).
 
 ### 📧 Reach me out
 [tomek@palladians.xyz](mailto:tomek@palladians.xyz)
